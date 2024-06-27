@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\vendor_crud_operation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|solutionrelative:vendor_crud_operation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\item_master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|solutionrelative:item_master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|c:\\users\\skhan\\downloads\\trust_machine_test\\trust_machine_test\\transaction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|solutionrelative:transaction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\vendorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|solutionrelative:vendorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\department_mast.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|solutionrelative:department_mast.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\vendor_crud_operation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|solutionrelative:vendor_crud_operation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7233B1A3-AA28-45AD-9E7F-7A7E864B02F3}|Trust_Machine_Test.csproj|solutionrelative:dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1163145134:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.aspx",
+              "DocumentMoniker": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Transaction.aspx",
+              "RelativeDocumentMoniker": "Transaction.aspx",
+              "ToolTip": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Transaction.aspx",
+              "RelativeToolTip": "Transaction.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T17:44:35.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department_mast.aspx",
+              "DocumentMoniker": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Department_mast.aspx",
+              "RelativeDocumentMoniker": "Department_mast.aspx",
+              "ToolTip": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Department_mast.aspx",
+              "RelativeToolTip": "Department_mast.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T17:39:09.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item_master.aspx",
+              "DocumentMoniker": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Item_master.aspx",
+              "RelativeDocumentMoniker": "Item_master.aspx",
+              "ToolTip": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Item_master.aspx",
+              "RelativeToolTip": "Item_master.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T17:27:28.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendorClass.cs",
+              "DocumentMoniker": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\VendorClass.cs",
+              "RelativeDocumentMoniker": "VendorClass.cs",
+              "ToolTip": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\VendorClass.cs",
+              "RelativeToolTip": "VendorClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:48:46.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\dbConnection.cs",
+              "RelativeDocumentMoniker": "dbConnection.cs",
+              "ToolTip": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\dbConnection.cs",
+              "RelativeToolTip": "dbConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:45:32.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vendor_Crud_Operation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Vendor_Crud_Operation.aspx.cs",
+              "RelativeDocumentMoniker": "Vendor_Crud_Operation.aspx.cs",
+              "ToolTip": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Vendor_Crud_Operation.aspx.cs",
+              "RelativeToolTip": "Vendor_Crud_Operation.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:25:48.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vendor_Crud_Operation.aspx",
+              "DocumentMoniker": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Vendor_Crud_Operation.aspx",
+              "RelativeDocumentMoniker": "Vendor_Crud_Operation.aspx",
+              "ToolTip": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Vendor_Crud_Operation.aspx",
+              "RelativeToolTip": "Vendor_Crud_Operation.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-10T05:21:51.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Users\\skhan\\Downloads\\Trust_Machine_Test\\Trust_Machine_Test\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-10T05:18:20.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
